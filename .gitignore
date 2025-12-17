@@ -6,10 +6,12 @@ plot_preliminary.py
 process_mantamonis.py
 
 # CDD_ML_Part_1_Acetylcholinesterase_Bioactivity_Data_Concised.ipynb
-CDD_ML_Part_2_Acetylcholinesterase_Exploratory_Data_Analysis.ipynb
+# CDD_ML_Part_2_Acetylcholinesterase_Exploratory_Data_Analysis.ipynb
 CDD_ML_Part_3_Acetylcholinesterase_Descriptor_Dataset_Preparation.ipynb
 CDD_ML_Part_4_Acetylcholinesterase_Regression_Random_Forest.ipynb
 CDD_ML_Part_5_Acetylcholinesterase_Compare_Regressors.ipynb
+Miniconda3-py37_4.8.2-Linux-x86_64.sh
+README.md
 acetylcholinesterase.zip
 acetylcholinesterase_01_bioactivity_data_raw.csv
 acetylcholinesterase_02_bioactivity_data_preprocessed.csv
@@ -18,4 +20,18 @@ acetylcholinesterase_04_bioactivity_data_3class_pIC50.csv
 acetylcholinesterase_05_bioactivity_data_2class_pIC50.csv
 acetylcholinesterase_06_bioactivity_data_3class_pIC50_pubchem_fp.csv
 acetylcholinesterase_07_bioactivity_data_2class_pIC50_pubchem_fp.csv
-README.md
+
+mannwhitneyu_LogP.csv
+mannwhitneyu_MW.csv
+mannwhitneyu_NumHAcceptors.csv
+mannwhitneyu_NumHDonors.csv
+mannwhitneyu_pIC50.csv
+molecule.smi
+plot_LogP.pdf
+plot_MW.pdf
+plot_MW_vs_LogP.pdf
+plot_NumHAcceptors.pdf
+plot_NumHDonors.pdf
+plot_bioactivity_class.pdf
+plot_ic50.pdf
+results.zip
