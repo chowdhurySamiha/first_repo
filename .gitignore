@@ -1,6 +1,10 @@
 .ipynb_checkpoints
 .DS_Store
 
+Mantamonis_bacterial_contamination_analysis.xlsx
+plot_preliminary.py
+process_mantamonis.py
+
 # CDD_ML_Part_1_Acetylcholinesterase_Bioactivity_Data_Concised.ipynb
 CDD_ML_Part_2_Acetylcholinesterase_Exploratory_Data_Analysis.ipynb
 CDD_ML_Part_3_Acetylcholinesterase_Descriptor_Dataset_Preparation.ipynb
