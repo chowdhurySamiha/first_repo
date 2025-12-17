@@ -36,6 +36,19 @@ plot_bioactivity_class.pdf
 plot_ic50.pdf
 results.zip
 
+AtomPairs2DFingerprintCount.xml
+AtomPairs2DFingerprinter.xml
+EStateFingerprinter.xml
+ExtendedFingerprinter.xml
+Fingerprinter.xml
+GraphOnlyFingerprinter.xml
+KlekotaRothFingerprintCount.xml
+KlekotaRothFingerprinter.xml
+MACCSFingerprinter.xml
+PubchemFingerprinter.xml
+SubstructureFingerprintCount.xml
+SubstructureFingerprinter.xml
+
 fingerprints_xml.zip
 molecule.smi
 Substructure.csv
