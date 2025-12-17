@@ -35,3 +35,10 @@ plot_NumHDonors.pdf
 plot_bioactivity_class.pdf
 plot_ic50.pdf
 results.zip
+
+fingerprints_xml.zip
+molecule.smi
+Substructure.csv
+Substructure.csv.log
+
+
