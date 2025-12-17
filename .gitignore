@@ -56,4 +56,6 @@ bioinformatics_freecodecamp/molecule.smi
 bioinformatics_freecodecamp/Substructure.csv
 bioinformatics_freecodecamp/Substructure.csv.log
 
-
+bioinformatics_freecodecamp/acetylcholinesterase_model.pkl
+# bioinformatics_freecodecamp/bioactivity_prediction_app.ipynb
+bioinformatics_freecodecamp/descriptor_list.csv
